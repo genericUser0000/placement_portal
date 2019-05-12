@@ -4,7 +4,7 @@ This is a simple and small website example I have written for my seniors. It wil
 
 # Goals
 
-- [] Creating a simple website to show how the database is linked.
-- [] Making sure that the code is easy to use.
-- [] Giving it to my seniors so that they can append it to the main project.
-- [] Then focusing on my internship.
+- [ ] Creating a simple website to show how the database is linked.
+- [ ] Making sure that the code is easy to use.
+- [ ] Giving it to my seniors so that they can append it to the main project.
+- [ ] Then focusing on my internship.
