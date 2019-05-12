@@ -1,0 +1,26 @@
+{
+  "name": "placement_portal",
+  "version": "1.0.0",
+  "description": "This is just a dummy website with some of the code that might be useful for my seniors. I am not sure how it would help them, but let's do it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genericUser0000/placement_portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genericUser0000/placement_portal/issues"
+  },
+  "homepage": "https://github.com/genericUser0000/placement_portal#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
